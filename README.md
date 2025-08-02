@@ -1,2 +1,2 @@
-# Teste_Software_2025_teixeira_vitoria_vieira_nicolas_rodrigues_felipe
+# Processamento_de_Linguagens_Naturais_teixeira_vitoria_vieira_nicolas_rodrigues_felipe
 Repositório contendo atividade 1 da matéria de Processamento de Linguagem Natural 2025.1
